@@ -1,0 +1,5 @@
+
+location_tracker/__pycache__
+myenv
+db.sqlite3
+dump.rdb
